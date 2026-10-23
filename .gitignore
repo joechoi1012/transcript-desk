@@ -1,0 +1,15 @@
+# Local recordings, transcripts, and projects must not be published.
+*.m4a
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.mp4
+*.srt
+*.vtt
+*.transcript-desk.json
+.env
+.env.*
+node_modules/
+work/
+*.log
